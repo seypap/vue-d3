@@ -46,7 +46,7 @@
 
   export default {
     data: () => ({
-      elWidth: 20,
+      elWidth: 50,
       elHeight: 100,
       animation: {
         delay: 250,
