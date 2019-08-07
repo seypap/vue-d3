@@ -50,7 +50,7 @@
       elHeight: 100,
       animation: {
         delay: 250,
-        duration: 1000
+        duration: 800
       },
       svg: null,
       saved: [],
